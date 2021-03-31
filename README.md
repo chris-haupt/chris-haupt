@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chris-haupt
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in React, Linguistics and Isha
 - 🌱 I’m currently learning German, Next.js and Illustration
 - 📫 [chris.james.haupt@gmail.com](mailto:chris.james.haupt@gmail.com)
